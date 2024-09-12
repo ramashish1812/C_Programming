@@ -18,9 +18,9 @@ int main()
 	printf("\nvalue of ln3 = %ld",ln3);
 
     printf("\nfloat data type :=");
-    printf("\nvalue of f1 = %2f",f1);
-    printf("\nvalue of f2 = %3f",f2);
-    printf("\nvalue of f3 = %1f",f3);
+    printf("\nvalue of f1 = %.2f",f1);
+    printf("\nvalue of f2 = %.3f",f2);
+    printf("\nvalue of f3 = %.1f",f3);
     
     printf("\ncharater data type :=");
     printf("\nvalue of ch1 = %c",ch1);
