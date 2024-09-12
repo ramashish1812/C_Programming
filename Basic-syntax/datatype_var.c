@@ -27,5 +27,5 @@ int main()
     printf("\nvalue of ch2 = %c",ch2);
     printf("\nvalue of ch3 = %c",ch3);
 
-	return;
+	return 0;
 }
